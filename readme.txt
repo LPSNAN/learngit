@@ -5,3 +5,4 @@ git tracks changes of files.
 nd files
 
 Creating a new branch is quick
+Creating a bew branch is quick and simple.
