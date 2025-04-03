@@ -1,4 +1,4 @@
-Git is free software.
+Git is a free software.
 where is the first line?
 git has a mutable index called stage.
 git tracks changes of files.
