@@ -6,3 +6,5 @@ nd files
 
 Creating a new branch is quick
 Creating a bew branch is quick and simple.
+
+Add merge.
